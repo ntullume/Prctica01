@@ -1,1 +1,7 @@
 Dia 1
+Crear repositorio en Githubs
+Comando git checkout feature: este comando sirve para cambiar de rama
+Comando git status: este comando sirve para ver los cambios que se realizaron
+Comando git add . este comando sirve para agregar el cambio que se realizo en la rama
+Comando git commit este comando sirve para colocar la descripción del cambio realizado
+Comando git push este comando sirve para subir la rama a Github
